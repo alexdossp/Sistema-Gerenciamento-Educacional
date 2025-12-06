@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://i.imgur.com/5gt8sOg.png" width="100%" alt="Capa do Projeto SGE">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Java-17-red" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue" />
   <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" />
